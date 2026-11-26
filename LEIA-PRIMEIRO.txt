@@ -1,0 +1,13 @@
+BoviFlow - entrega integral para Vercel
+1. Extraia o ZIP inteiro. Abra a pasta BoviFlow.
+2. Clique duas vezes em PUBLICAR-GITHUB.bat. O script verifica os arquivos,
+   oferece instalar Git/GitHub CLI se faltarem, abre a autenticacao oficial
+   e cria PRADOZZZ/BoviFlow privado se nao existir. Se existir, preserva o
+   historico e atualiza os arquivos da entrega. Nao usa force push.
+3. Confirme SIM quando solicitado. O script verifica o commit remoto.
+4. Na Vercel, importe BoviFlow. Framework Other, Root Directory ./,
+   Output Directory public, Build Command vazio. Sem variaveis para demo.
+5. Teste /api/session (JSON status ok), / e /staff antes de enviar o link.
+
+A demo usa dados sinteticos por navegador. Supabase e IA externa opcionais.
+A integracao real de camera nao foi validada. Nao ha deploy remoto comprovado.

@@ -1,0 +1,256 @@
+{
+  "files": [
+    {
+      "path": ".dockerignore",
+      "sha256": "a879547989e37b4345e165ba136030ea477843a91831e80dba5727b06f4818b4"
+    },
+    {
+      "path": ".env.example",
+      "sha256": "86ce14712701a710cbda6d8be418b18d88222e100412c27b2a49460b64973099"
+    },
+    {
+      "path": ".gitattributes",
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "4a7aa9ad6ec101b425a3b4b66338e52e39df0d78a78e1e2264375d26d873867d"
+    },
+    {
+      "path": ".vercelignore",
+      "sha256": "ac0cf04d6171e6a58b4986a5830fc9d935195aa5b1fbf81d1e5ae8d8f980be7f"
+    },
+    {
+      "path": "Dockerfile",
+      "sha256": "2be9082b2677f41f7fbc71ec2d2ecc0e819f0b1861e01d0f435b5ee88e8e610b"
+    },
+    {
+      "path": "LEIA-PRIMEIRO.txt",
+      "sha256": "ab16dac795cbc8b7c586cb28a1947b72ab16db30c8508749faf38f42bc1274cd"
+    },
+    {
+      "path": "PUBLICAR-GITHUB.bat",
+      "sha256": "0ba7972944b15b3dd223a28cb78e8315ec82dcfd4e29402bda67148262379ce9"
+    },
+    {
+      "path": "README.md",
+      "sha256": "b53c98da3b8ca7484f9565b9ff52128b730d622a7e80368de85ba7f4326918c8"
+    },
+    {
+      "path": "api/session.py",
+      "sha256": "06d7b354869cea1967b043fd0d1b23868c7de77f6ed4f94a52e3680ece579cd0"
+    },
+    {
+      "path": "app.py",
+      "sha256": "6f2eb07c12f167af1e80bad8684e7bdf9c41af26e451fb24f77d1c8dab2ecfa6"
+    },
+    {
+      "path": "cloud.py",
+      "sha256": "6e0feaea1fe7c4c43e94a9af0347bcf5356d085688dda4ae80bd96bd010bbab4"
+    },
+    {
+      "path": "core.py",
+      "sha256": "721ba447aa7aa537c4c65b7a90085bd1c9da217b992a1c710e7cddc1dceb3fb8"
+    },
+    {
+      "path": "docs/PITCH.md",
+      "sha256": "4da9eb5d248db37e98b1b3f5d86df3ce0e0caf7b1818b40c9189622e27b96d04"
+    },
+    {
+      "path": "docs/PUBLICACAO.md",
+      "sha256": "3a6424496c4c8e496c769c08b8dc676edb1e0ade9c775b471dbd31cddd90c932"
+    },
+    {
+      "path": "docs/README-LOCAL-V3.md",
+      "sha256": "b728421e7ea871504fb471703c4e3a174c2b007aa8a6d9733d8adb4826115c82"
+    },
+    {
+      "path": "docs/VALIDACAO.md",
+      "sha256": "c0303d6becb9737938a865a38b8aa99f076b2bd458aa1ba40c170aa5bde1a602"
+    },
+    {
+      "path": "docs/VISION.md",
+      "sha256": "b1fc1195e1f92dd61b91160e1b428488e844494c180dbcf888b9b45ea0d22273"
+    },
+    {
+      "path": "docs/browser-cloud.log",
+      "sha256": "8d69b2da6907434566a0aa7d165b2b3b747264415ef643ff089bfd5dd619cb07"
+    },
+    {
+      "path": "docs/browser-direct-v3.log",
+      "sha256": "64470ef95cf8722f88195df5d14dfd5b5bee8baba2eb9e5a4d404efb01569f42"
+    },
+    {
+      "path": "docs/browser-v2.log",
+      "sha256": "ff77fbb23b3c2e134e26b3aa4aac81964bd5a3ef51edc63607e3871341e5ccc8"
+    },
+    {
+      "path": "docs/browser-v3.log",
+      "sha256": "7478bae26fa7cdd04381238f6226d355aeba38ae5c52ad263f776fe46d70302b"
+    },
+    {
+      "path": "docs/openapi.json",
+      "sha256": "510774ca783eb7b95387f4ca03fa1dbde8065009c8c68aae9717b2379c44bdaa"
+    },
+    {
+      "path": "docs/testes-cloud-final.log",
+      "sha256": "31f92eb53c6b4ef9af06634ea17a347b3b005463275c443c66217d2343d6f51a"
+    },
+    {
+      "path": "docs/testes-cloud.log",
+      "sha256": "d8ecbc797893c8a3e356c9de723435966c393f279aa2fc48d3f2d637dc5c6644"
+    },
+    {
+      "path": "docs/testes-entrega.log",
+      "sha256": "79122a09bd9b5ecc5e586c9c6950bdfa295779ac6ffbaaa3163aaccedd8a0025"
+    },
+    {
+      "path": "docs/testes-local-cloud.log",
+      "sha256": "bcf15618df0c82aec01d4323b942375c6dab7e28a3e8f7f7734d895ef8c726a9"
+    },
+    {
+      "path": "docs/testes-v2.log",
+      "sha256": "30d6df71001ba139e49f0616ed546c4cb00df5f2051782aca7cfabf75db97dd3"
+    },
+    {
+      "path": "docs/testes-v3.log",
+      "sha256": "63cf61b781017e09b7ec7a02394c3616cf9ac7c9ad6ee468745e591d052d1d20"
+    },
+    {
+      "path": "docs/testes.log",
+      "sha256": "ddc7a155ec8013a80133f502d3b7afc0ea561010b527351408bf5f533df3da3b"
+    },
+    {
+      "path": "iniciar-rede.bat",
+      "sha256": "d6ed55866a415c58781693cf9603e4e9558d8cabc970d1f6c6145f8eab2ac6bb"
+    },
+    {
+      "path": "iniciar.bat",
+      "sha256": "775e3d033ccb4bb7fe2ddb982b2388f674198f49d62ca5721f942de7eb7cbe47"
+    },
+    {
+      "path": "integrations.py",
+      "sha256": "6c9aa7c08602396d587020284d7938e8941b2e2db3b17679bc7676acf75d1c53"
+    },
+    {
+      "path": "previews/BoviFlow-v3-dashboard.png",
+      "sha256": "869217fc00fc2385fd8556a34cb48f6f9428e369163699022080de5ac36bde1d"
+    },
+    {
+      "path": "previews/BoviFlow-v3-mobile.png",
+      "sha256": "6b5276278683a093f22f646eb82b995c7a98b74bb57b7bf434d002dd35ae2289"
+    },
+    {
+      "path": "public/index.html",
+      "sha256": "df807607600ae7a12d34ffb7b468b2fe7d1635ecfbba77823ecd19b7e1bca116"
+    },
+    {
+      "path": "public/static/app.js",
+      "sha256": "14c33da16ccef75d3a4a61650aef5fc4d8c61d3e440ef8326be3bc2ced446f50"
+    },
+    {
+      "path": "public/static/bovinus.png",
+      "sha256": "ab30abd2184c9774d13c06982270c84e254d1d45801f579e5accaf329280f0b6"
+    },
+    {
+      "path": "public/static/logo.svg",
+      "sha256": "0ac4699643ae19391710396d133250dc088b7c496bd8c0cdc1352d4d078b5bed"
+    },
+    {
+      "path": "public/static/plant.png",
+      "sha256": "50ed38d8975598d900835bd8483fc7772b922f0e5245014a207d79bba7559bbb"
+    },
+    {
+      "path": "public/static/style.css",
+      "sha256": "eff97c5e7918430b42b89edf90b18782f9d19607d04fd4035ec079d9e431a690"
+    },
+    {
+      "path": "publicar-github.ps1",
+      "sha256": "c8e15db303a404d201e9051fd06b98a9eaf080e9ef79bfc99325b71067685b2f"
+    },
+    {
+      "path": "requirements-vision.txt",
+      "sha256": "fcb73b6d4cc6eae7f3c7acadddca2f8173aa3ec2ccbdd477c04eb0120612bc0d"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "a7c76ff25d346e0035b0bf4c6ec37ad39220304fcffefb1c18ed3d6ac2880bf9"
+    },
+    {
+      "path": "simulator.py",
+      "sha256": "e0e82b0295cc4b667b57274b394c592c90c4178f166136a1b5b1cbc5165eac29"
+    },
+    {
+      "path": "static/app.js",
+      "sha256": "5a7e897e16d5a7c052394444e24ada709064f34bee4d18c51044b5ead14e6422"
+    },
+    {
+      "path": "static/bovinus.png",
+      "sha256": "ab30abd2184c9774d13c06982270c84e254d1d45801f579e5accaf329280f0b6"
+    },
+    {
+      "path": "static/index.html",
+      "sha256": "a7f12627699635876945eab12724fd1b6b184ba0ed12885e1d59f31b6ab9537e"
+    },
+    {
+      "path": "static/logo.svg",
+      "sha256": "0ac4699643ae19391710396d133250dc088b7c496bd8c0cdc1352d4d078b5bed"
+    },
+    {
+      "path": "static/plant.png",
+      "sha256": "50ed38d8975598d900835bd8483fc7772b922f0e5245014a207d79bba7559bbb"
+    },
+    {
+      "path": "static/style.css",
+      "sha256": "0b84f26c900056e171f177266bc650ecafe51081cc75954b8f8efd5f8129e47c"
+    },
+    {
+      "path": "supabase/setup.sql",
+      "sha256": "453ab808e516f581bd686493c2db5f36ac246462902ee817e627c1d5574ee2f4"
+    },
+    {
+      "path": "tests/browser_bridge.py",
+      "sha256": "848250c80d939e455cd182bf40df099b4f0d62e31c8002ca0cb1e89196345abf"
+    },
+    {
+      "path": "tests/browser_check.py",
+      "sha256": "66d7e9cf51239ea17e8e5b29b61ca6ccfd1de4bda2a99e48b55f67d402b28fe6"
+    },
+    {
+      "path": "tests/browser_cloud.py",
+      "sha256": "4e90a38074d51ce6cce02c97a52707d6260583573cf4625565a318b7d6546e45"
+    },
+    {
+      "path": "tests/test_cloud.py",
+      "sha256": "bf4fce2a7e2a4f4307f385fcf5dfee8eb2ee110d5e6f8cb53e34b75a7fb88f67"
+    },
+    {
+      "path": "tests/test_core.py",
+      "sha256": "3a73dcd31df32364ae88e5b6ce17c2203c378240ea29e99f20837d89cfaf4cba"
+    },
+    {
+      "path": "tests/test_http.py",
+      "sha256": "0d0d771151680c9a1825ba7b4ac70b1e7340de0b610e01e91ca0532835e1f98a"
+    },
+    {
+      "path": "tests/test_integrations.py",
+      "sha256": "cbb65b5d4e5fbd9d20d0739aa4d726adda47a8a62c3babdf149454d418cfa5e1"
+    },
+    {
+      "path": "tests/test_render.js",
+      "sha256": "c8d8909f9edaac4b73f02de7a1b1f8701611bb29f2359912d70032f9e928545a"
+    },
+    {
+      "path": "tests/test_upgrade.py",
+      "sha256": "dbf868f4d34dccb9f9bf020a3a77e6704a5cb6d2c24f8bb5d77b06ef9b99c687"
+    },
+    {
+      "path": "vercel.json",
+      "sha256": "ba48470654b6b8a0caff5200f61efc2fa206d589c1544780f551df13053d7cc1"
+    },
+    {
+      "path": "vision.py",
+      "sha256": "7631668afba525177f1936777e4f0643287f66e6935da28f630fb0059949278b"
+    }
+  ]
+}

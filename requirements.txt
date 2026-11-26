@@ -1,0 +1,2 @@
+# BoviFlow cloud uses Python standard library only.
+# Optional local computer vision: requirements-vision.txt.
