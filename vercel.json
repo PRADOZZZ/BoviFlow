@@ -8,12 +8,6 @@
       "destination": "/index.html"
     }
   ],
-  "functions": {
-    "api/session.py": {
-      "includeFiles": "{core.py,simulator.py,integrations.py,cloud.py,docs/openapi.json}",
-      "maxDuration": 30
-    }
-  },
   "headers": [
     {
       "source": "/(.*)",
